@@ -9,7 +9,6 @@ This project is a single-page application for contact list created with React.
 - [Features](#features)
 - [Screenshot](#screenshot)
 - [Built With](#built-with)
-- [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Author](#author)
 
