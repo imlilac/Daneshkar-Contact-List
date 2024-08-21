@@ -15,10 +15,10 @@ This project is a single-page application for contact list created with React.
 
 ## Features
 
-- Display of minimal landing page for skin beauty products.
-- Dynamic rendering of product information.
-- Clean and modern design using React.
-
+- Add new contacts with name, phone, and email details.
+- Search functionality to filter contacts by name.
+- Dynamic rendering of contact list based on user interactions.
+- Responsive design with modern UI using React.
 
 ## Screenshot
 
