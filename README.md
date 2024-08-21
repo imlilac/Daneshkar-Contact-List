@@ -22,7 +22,8 @@ This project is a single-page application for contact list created with React.
 
 ## Screenshot
 
-![Screenshot](https://github.com/imlilac/Lilac-Beauty/blob/main/public/img/skin-srcreenshot.png)
+![Screenshot](https://github.com/imlilac/Daneshkar-Contact-List/blob/main/public/screen%20(1).png)
+![Screenshot](https://github.com/imlilac/Daneshkar-Contact-List/blob/main/public/screen%20(2).png)
 
 ## Built With
 
